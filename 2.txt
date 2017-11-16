@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-Change
-
-made
-
-in
-file
-=======
-Changess
-mades
-ins
-files
->>>>>>> 30904d94d0fb4eeb3171599cef064dadb4df20a0
-
+my name is pankaj
