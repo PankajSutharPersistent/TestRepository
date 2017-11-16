@@ -1,11 +1,5 @@
-my name is pankaj
-<<<<<<< HEAD
-c1
-c2
-c3
-c4
-=======
-suthar
-is my
+test
 name
->>>>>>> 9ac12bb557441c0a903b917fc678df194040a842
+here
+comes
+pankaj
